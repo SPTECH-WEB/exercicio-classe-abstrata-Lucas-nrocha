@@ -31,7 +31,9 @@ public abstract class Figura {
         return espessura;
     }
 
-    public void setEspessura(Integer espessura) {
+    public void
+
+    setEspessura(Integer espessura) {
         this.espessura = espessura;
     }
 }
